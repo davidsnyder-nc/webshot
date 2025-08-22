@@ -62,4 +62,4 @@ ngrok: For securely exposing local web servers to the internet.
 
 This README provides a comprehensive guide for anyone looking to use or contribute to the WebShot project.
 
-<br><br><img src="screenshot.jpg" alt="Screenshot">
+
